@@ -16,17 +16,17 @@ timezone:
 
 title: Samuel Redman # the main title
 
-tagline: An Offensive Security Space # it will display as the subtitle
+tagline: An Offensive Security Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog, writeups, and tutorials on offensive security, red teaming, and penetration testing.
+  Blog, writeups, and tutorials on offensive security topics.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sam-redman.github.io"
 
 github:
-  username: sam-redman # change to your GitHub username
+  username: github_username # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Samuel Redman
- # email: example@domain.com # change to your email address
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-   # - https://twitter.com/username # change to your Twitter homepage
-   # - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
