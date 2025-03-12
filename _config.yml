@@ -16,10 +16,10 @@ timezone: GMT
 
 title: Samuel Redman # the main title
 
-tagline: An Offensive Security Blog # it will display as the subtitle
+tagline: "404: Page not found" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog, writeups, and tutorials on offensive security topics.
+  Blog, writeups, and tutorials on offensive security, penetration testing and general tech space topics.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
