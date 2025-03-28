@@ -19,6 +19,8 @@ Category: AI
 
 “High above Eldoria’s skyline hovers the Floating Isles. The fellowship has to retrieve the Wind Crystal from this sacred land. Unfortunately, the terror on the ground has resulted in the lockdown of this magnificent isle. Now, only those who receive approval from the floating Embassy may enter. The Embassy, overwhelmed by countless entry requests, has invoked an otherworldly AI spirit to triage all entry pleas. The fellowship must convince this spirit that their mission is urgent, but the AI is not being swayed. Now trapped in this situation, the fellowship needs your prompt injection skills to persuade the AI to allow them entry. Can you make the AI respond with the right verdict to get entry?”
 
+`Flag: HTB{tr41n3d_ai_0n_th3_fly}`
+
 ### Write-up
 
 Before starting this CTF I had never done an AI challenge before. I had also never done any kind of AI testing of any kind. So, this was a completely new experience. Thankfully, the Embassy challenge box was one of the easier AI challenges. Why? Because you simply needed the AI to output a single word - "granted". When it comes to prompt injection it doesn't get much simpler than this. It is a trivial exercise to get any kind of AI to output a singular word, which in this case could trigger the flag being revealed. In the real world, the usefulness of this type of attack is limited.
@@ -41,6 +43,8 @@ Category: Forensics
 ### Description
 
 "The Royal Archives of Eldoria have recovered a mysterious document—an old resume once belonging to Lord Malakar before his fall from grace. At first glance, it appears to be an ordinary record of his achievements as a noble knight, but hidden within the text are secrets that reveal his descent into darkness."
+
+`Flag: HTB{4PT_28_4nd_m1cr0s0ft_s34rch=1n1t14l_4cc3s!!}`
 
 ### Write-up
 
@@ -85,6 +89,8 @@ Category: OSINT
 ### Description
 
 "In the twilight archives of Eldoria, Nyla studies an image of an ancient Celtic cross. Her enchanted crystals illuminate the intricate carvings as she searches through forgotten tomes. The cross stands at a crossroads of realms and time, its weathered surface telling tales older than Eldoria itself. As her magical threads of knowledge connect across centuries, the true name of the monument emerges in glowing script before her eyes. Another mystery solved by the realm's most skilled information seeker, who knows that even stone can speak to those who know how to listen."
+
+`Flag: HTB{Muiredachs_High_Cross}`
 
 ### Write-up
 
