@@ -9,7 +9,7 @@ tags: [ai, forensics, osint]     # TAG names should always be lowercase
 
 This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I had no idea what the difficulty level would be, but by the time I was finished I concluded that it's not the best idea to try and crack 77 challenges without a full team. It was, however, a very powerful learning (and humbling) experience. I was rather pleased with my contribution of 17 flags.
 
-**You can also find the official writeups for the event here:** [hackthebox/cyber-apocalypse-2025: Official writeups for Cyber Apocalypse CTF 2025: Tales from Eldoria](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
+**You can also find the official writeups for the event here:** [HTB Writeups](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
 
 ## Embassy
 
@@ -100,23 +100,15 @@ The hint for this challenge is a pretty big giveaway - "Celtic cross". If you po
 
 Looking at the cross, there isn't anything particularly useful that it tells us. There also aren't any landmarks in the background or any other details that might further narrow down the search. During my search I found many references to the Cross of the Scriptures. At first, I thought this was flag, but it was a bit of bamboozle.
 
-[Clonmacnoise Monastic Site | Heritage Ireland](https://heritageireland.ie/places-to-visit/clonmacnoise-monastic-site/)
-
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1743174452/7817993b2016e6197ab80c880b0fe2a6e69e94e5c9e5b286_evygxu.png)
 
 After concluding that while one of the crosses in the original photo looked like one of the crosses at the Clonmacnoise site, it was not a perfect match. It also becomes a bit more obvious when you notice there isn't a building in the challenge photo on the right-hand side so it can't be the same cross. So, at this point we can continue the search and see if we can find more famous crosses in Ireland.
-
-[https://en.wikipedia.org/wiki/Clonmacnoise#Buildings_and_High_Crosses](https://en.wikipedia.org/wiki/Clonmacnoise#Buildings_and_High_Crosses)
-
-[https://www.oursundayvisitor.com/the-high-crosses-of-ireland-and-the-psalms/](https://www.oursundayvisitor.com/the-high-crosses-of-ireland-and-the-psalms/)
 
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1743174483/3cdd45258382ad3fd921d08e2125123b8c577a95cf4edfc7_pvp5xv.png)
 
 Bingo. At this point we've found a dead-on match in one of the site images. Then we can reverse the image, search the stock photo and take note of the reference to `muiredachs`in the URLs.
 
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1743174498/2363047465cbafa04040ff0bda082f016ae1e6472fb3dacd_prafg3.png)
-
-[https://www.alamy.com/west-view-of-muiredachs-cross-and-carvings-of-the-crucifixion-image433924384.html?irclickid=XuFTXc0G9xycWGmxSGT1CWtaUks3ksVhgwg0yc0&utm_source=77643&utm_campaign=Royalty-free%20stock%20photos%20and%20images%20%E2%80%93%20Alamy%20&utm_medium=impact&irgwc=1](https://www.alamy.com/west-view-of-muiredachs-cross-and-carvings-of-the-crucifixion-image433924384.html?irclickid=XuFTXc0G9xycWGmxSGT1CWtaUks3ksVhgwg0yc0&utm_source=77643&utm_campaign=Royalty-free%20stock%20photos%20and%20images%20%E2%80%93%20Alamy%20&utm_medium=impact&irgwc=1)
 
 And there it is. Muiredach High Cross.
 
