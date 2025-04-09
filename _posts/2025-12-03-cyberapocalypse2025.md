@@ -1,6 +1,6 @@
 ---
 title: Cyber Apocalypse CTF 2025 Tales from Eldoria - Write-up
-date: 2025-03-28 15:37:00 +/-TTTT
+date: 2025-03-28 15:37:00 +0100
 categories: [ctf, htb]
 tags: [ai, forensics, osint]     # TAG names should always be lowercase
 ---
