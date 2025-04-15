@@ -5,7 +5,7 @@ categories: [ctf, htb]
 tags: [ai, forensics, osint]     
 image: https://res.cloudinary.com/djo6idowf/image/upload/v1744238834/7181e9fc416d5efe46f317221c87a361a381c032385bfba8_bzw62c.png
 ---
-This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I had no idea what the difficulty level would be, but by the time I was finished I concluded that it's not the best idea to try and crack 77 challenges without a full team. It was, however, a very powerful learning (and humbling) experience. I was rather pleased with my contribution of 17 flags.
+This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I had no idea what the difficulty level would be, but by the time I was finished I concluded that it's not the best idea to try and crack 77 challenges without a full team. It was, however, a very powerful learning (and humbling) experience. I was rather pleased with my contribution of 17 flags. Below you will find a few of my favourite challenges.
 
 **You can also find the official writeups for the event here:** [HTB Writeups](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
 
