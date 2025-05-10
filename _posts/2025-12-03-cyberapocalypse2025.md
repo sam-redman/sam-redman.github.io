@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/djo6idowf/image/upload/v1743173901/e9f87a1bf61
 ---
 This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I had no idea what the difficulty level would be, but by the time I was finished I concluded that it's not the best idea to try and crack 77 challenges without a full team. It was, however, a very powerful learning (and humbling) experience. I was rather pleased with my contribution of 17 flags. Below you will find a few of my favourite challenges.
 
-**You can also find the official writeups for the event here:** [HTB Writeups](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
+**You can also find the official writeups for the event here:** [Official writeups for Cyber Apocalypse CTF 2025](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
 
 ## Embassy
 
@@ -17,7 +17,7 @@ Category: AI
 
 “High above Eldoria’s skyline hovers the Floating Isles. The fellowship has to retrieve the Wind Crystal from this sacred land. Unfortunately, the terror on the ground has resulted in the lockdown of this magnificent isle. Now, only those who receive approval from the floating Embassy may enter. The Embassy, overwhelmed by countless entry requests, has invoked an otherworldly AI spirit to triage all entry pleas. The fellowship must convince this spirit that their mission is urgent, but the AI is not being swayed. Now trapped in this situation, the fellowship needs your prompt injection skills to persuade the AI to allow them entry. Can you make the AI respond with the right verdict to get entry?”
 
-`Flag: HTB{tr41n3d_ai_0n_th3_fly}`
+Flag: `HTB{tr41n3d_ai_0n_th3_fly}`
 
 ### Write-up
 
@@ -42,7 +42,7 @@ Category: Forensics
 
 "The Royal Archives of Eldoria have recovered a mysterious document—an old resume once belonging to Lord Malakar before his fall from grace. At first glance, it appears to be an ordinary record of his achievements as a noble knight, but hidden within the text are secrets that reveal his descent into darkness."
 
-`Flag: HTB{4PT_28_4nd_m1cr0s0ft_s34rch=1n1t14l_4cc3s!!}`
+Flag: `HTB{4PT_28_4nd_m1cr0s0ft_s34rch=1n1t14l_4cc3s!!}`
 
 ### Write-up
 
@@ -88,7 +88,7 @@ Category: OSINT
 
 "In the twilight archives of Eldoria, Nyla studies an image of an ancient Celtic cross. Her enchanted crystals illuminate the intricate carvings as she searches through forgotten tomes. The cross stands at a crossroads of realms and time, its weathered surface telling tales older than Eldoria itself. As her magical threads of knowledge connect across centuries, the true name of the monument emerges in glowing script before her eyes. Another mystery solved by the realm's most skilled information seeker, who knows that even stone can speak to those who know how to listen."
 
-`Flag: HTB{Muiredachs_High_Cross}`
+Flag: `HTB{Muiredachs_High_Cross}`
 
 ### Write-up
 
