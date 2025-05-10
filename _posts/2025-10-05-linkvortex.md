@@ -11,6 +11,7 @@ image: https://res.cloudinary.com/djo6idowf/image/upload/v1746901187/LinkVortex_
 [LinkVortex](https://app.hackthebox.com/machines/LinkVortex) is an Easy machine released on 7th December 2025 on Hack The Box.
 
 User Flag: `e54eecdc5fb3a4368b68a44279f61569` 
+
 Root Flag: `75025db2a48dc5b1a9bd6d365a9c7fe2`
 
 ## Write-up
