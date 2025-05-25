@@ -5,8 +5,7 @@ categories: [ctf, htb]
 tags: [web, linux] 
 image: https://res.cloudinary.com/djo6idowf/image/upload/v1746901187/LinkVortex_ntqfun.png
 ---
-
-## Box Information
+# Box Information
 
 [LinkVortex](https://app.hackthebox.com/machines/LinkVortex) is an Easy machine released on 7th December 2025 on Hack The Box.
 
@@ -14,7 +13,7 @@ User Flag: `e54eecdc5fb3a4368b68a44279f61569`
 
 Root Flag: `75025db2a48dc5b1a9bd6d365a9c7fe2`
 
-## Write-up
+# Write-up
 
 As always, start off with a standard Nmap scan of the target. Both TCP & UDP.
 
@@ -727,6 +726,6 @@ The script processes `file.png`, resolves the chain of symlinks step by step, an
 
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1746900965/image_ab3vwt.png)
 
-## Thoughts
+# Thoughts
 
 Overall I thought that his box was fairly nice. What I didn’t like was the mindless hunt through the git repository for a username and password buried within. Those types of challenges can feel like luck rather than skill, but to be honest I should be looking to automate the process of looking through multiple files for username & passwords strings.

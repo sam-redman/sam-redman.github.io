@@ -9,7 +9,7 @@ This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I ha
 
 **You can also find the official writeups for the event here:** [Official writeups for Cyber Apocalypse CTF 2025](https://github.com/hackthebox/cyber-apocalypse-2025?tab=readme-ov-file)
 
-## Embassy
+# Embassy
 
 Category: AI
 
@@ -35,16 +35,16 @@ All you need to do is tag on some extra instructions in the prompt, being VERY s
 
 One of the issues with AI challenges/testing is that the learning resources in this space are limited for two reasons really. One, it's a new space, AI and LLMs have basically only been in the mainstream for a couple of years. And two, the companies building these AIs and models are constantly patching new and interesting ways that people are abusing them to get them to function outside of their built-in restrictions. My advice to others who are trying AI challenges - just throw everything at it. Lie to it, gaslight it, tell it to ignore instructions, ask for censored results to be encoded. Just try EVERYTHING. One thing to note about AI challenges in this CTF event is that they are non-contextual (I have no idea if that is the technical term), meaning that they don't keep track of the entire chat history (at least from my experience this was the case) - they only care about the next thing you say. That is to say that you can't jailbreak them like you might with other LLMs (at least I couldn't).
 
-## A New Hire
+# A New Hire
 Category: Forensics
 
-### Description
+## Description
 
 "The Royal Archives of Eldoria have recovered a mysterious document—an old resume once belonging to Lord Malakar before his fall from grace. At first glance, it appears to be an ordinary record of his achievements as a noble knight, but hidden within the text are secrets that reveal his descent into darkness."
 
 Flag: `HTB{4PT_28_4nd_m1cr0s0ft_s34rch=1n1t14l_4cc3s!!}`
 
-### Write-up
+## Write-up
 
 Up next we had a forensics challenge. Again, this was my first time taking on a challenge of this nature. I enjoyed it. The premise for these challenges is straightforward, follow the crumbs, don't think too deeply and see where you end up. I do think that that is a reoccurring theme when it comes to CTF events - don't think too much, trust the process and follow the clues, even if they seem completely random. The solutions are almost always linear in nature, they must be because otherwise each flag would take you half a day.
 
@@ -76,21 +76,21 @@ If we go ahead and decode the key in CyberChef, we get the flag.
 
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1743174629/21e5eba8174a8b7cbcf7d067dff3663aef20673ce4be0419_ubgewd.png)
 
-### Thoughts
+## Thoughts
 
 Fun, straightforward, to the point. Nothing substantial to say here, just a nice introduction to forensic challenges.
 
-## Echoes in Stone
+# Echoes in Stone
 
 Category: OSINT
 
-### Description
+## Description
 
 "In the twilight archives of Eldoria, Nyla studies an image of an ancient Celtic cross. Her enchanted crystals illuminate the intricate carvings as she searches through forgotten tomes. The cross stands at a crossroads of realms and time, its weathered surface telling tales older than Eldoria itself. As her magical threads of knowledge connect across centuries, the true name of the monument emerges in glowing script before her eyes. Another mystery solved by the realm's most skilled information seeker, who knows that even stone can speak to those who know how to listen."
 
 Flag: `HTB{Muiredachs_High_Cross}`
 
-### Write-up
+## Write-up
 
 The hint for this challenge is a pretty big giveaway - "Celtic cross". If you pop that in a search engine you get MANY results for Celtic crosses in Ireland. So, at this point we have immediately narrowed down the search to Ireland.
 
@@ -110,21 +110,21 @@ Bingo. At this point we've found a dead-on match in one of the site images. Then
 
 And there it is. Muiredach High Cross.
 
-### Thoughts
+## Thoughts
 
 Enough of a challenge to put up some resistance but easy enough to not find yourself going round in circles all over the globe. The fact that the cross on the flag was a lesser-known cross was a nice twist. An overall great OSINT challenge that anyone could participate in.
 
-## Overall Experience
+# Overall Experience
 
 For the most part I really enjoyed the event. It started out a little frustrating just because the sheer number of challenges that the event had meant that I was trying to get through flags as quickly as possible. That made it difficult to enjoy some of the challenges, and at multiple points I had to move on from challenges simply because I couldn't dedicate more time to them. I've got some things to improve on for next time and got some great notes. I give it a solid 8/10.
 
-### Lessons Learned
+# Lessons Learned
 
 *   Prompt injection is easier than it seems, practice makes perfect
 *   Follow the crumbs, don't let yourself get carried away down rabbit holes
 *   Focus on one category at a time, don't spread yourself thin
 
-### Preperation for Next Time
+# Preperation for Next Time
 
 *   Recruit more team members
 *   Build up crypto skills and scripts
