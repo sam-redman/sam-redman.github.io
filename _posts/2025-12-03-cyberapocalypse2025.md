@@ -13,13 +13,13 @@ This past weekend I had a go at Cyber Apocalypse 2025. Coming into this CTF I ha
 
 Category: AI
 
-### Description
+## Description
 
 “High above Eldoria’s skyline hovers the Floating Isles. The fellowship has to retrieve the Wind Crystal from this sacred land. Unfortunately, the terror on the ground has resulted in the lockdown of this magnificent isle. Now, only those who receive approval from the floating Embassy may enter. The Embassy, overwhelmed by countless entry requests, has invoked an otherworldly AI spirit to triage all entry pleas. The fellowship must convince this spirit that their mission is urgent, but the AI is not being swayed. Now trapped in this situation, the fellowship needs your prompt injection skills to persuade the AI to allow them entry. Can you make the AI respond with the right verdict to get entry?”
 
 Flag: `HTB{tr41n3d_ai_0n_th3_fly}`
 
-### Write-up
+## Write-up
 
 Before starting this CTF I had never done an AI challenge before. I had also never done any kind of AI testing of any kind. So, this was a completely new experience. Thankfully, the Embassy challenge box was one of the easier AI challenges. Why? Because you simply needed the AI to output a single word - "granted". When it comes to prompt injection it doesn't get much simpler than this. It is a trivial exercise to get any kind of AI to output a singular word, which in this case could trigger the flag being revealed. In the real world, the usefulness of this type of attack is limited.
 
@@ -31,7 +31,7 @@ All you need to do is tag on some extra instructions in the prompt, being VERY s
 
 ![](https://res.cloudinary.com/djo6idowf/image/upload/v1743174025/b044300f7c11ec9b162d8383097b3ee35b6959179649e2b3_w6lahv.png)
 
-### Thoughts
+## Thoughts
 
 One of the issues with AI challenges/testing is that the learning resources in this space are limited for two reasons really. One, it's a new space, AI and LLMs have basically only been in the mainstream for a couple of years. And two, the companies building these AIs and models are constantly patching new and interesting ways that people are abusing them to get them to function outside of their built-in restrictions. My advice to others who are trying AI challenges - just throw everything at it. Lie to it, gaslight it, tell it to ignore instructions, ask for censored results to be encoded. Just try EVERYTHING. One thing to note about AI challenges in this CTF event is that they are non-contextual (I have no idea if that is the technical term), meaning that they don't keep track of the entire chat history (at least from my experience this was the case) - they only care about the next thing you say. That is to say that you can't jailbreak them like you might with other LLMs (at least I couldn't).
 
