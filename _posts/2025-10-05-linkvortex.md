@@ -661,7 +661,7 @@ Let’s have a look at the contents and see what the script does.
 
 `cat /opt/ghost/clean_symlink.sh`
 
-```plaintext
+```bash
 #!/bin/bash
 
 QUAR_DIR="/var/quarantined"
