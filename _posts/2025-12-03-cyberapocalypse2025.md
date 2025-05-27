@@ -1,5 +1,5 @@
 ---
-title: Cyber Apocalypse CTF 2025 Tales from Eldoria - Write-up
+title: Cyber Apocalypse CTF 2025 Tales from Eldoria
 date: 2025-03-28 15:37:00 +0100
 categories: [ctf, htb]
 tags: [ai, forensics, osint]     
