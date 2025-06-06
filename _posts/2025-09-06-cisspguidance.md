@@ -14,22 +14,22 @@ You can take the exam without the experience, but then you will only be a CISSP 
 ## Resources
 
 Courses:
-- https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/ - Dion Training
-- https://www.udemy.com/course/cissp-domain-1-2/ - Thor Pederson
+- (https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/) - Dion Training
+- (https://www.udemy.com/course/cissp-domain-1-2/) - Thor Pederson
 
 Apps:
-- https://www.learnzapp.com/ - LearnZApp
+- (https://www.learnzapp.com/) - LearnZApp
 
 YouTube:
-- https://www.youtube.com/watch?v=dq5eodSz_0k - Think Like A Manager
-- https://www.youtube.com/watch?v=_nyZhYnCNLA - CISSP Exam Cram
-- https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1 - CISSP Mind Map
+- (https://www.youtube.com/watch?v=dq5eodSz_0k) - Think Like A Manager
+- (https://www.youtube.com/watch?v=_nyZhYnCNLA) - CISSP Exam Cram
+- (https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1) - CISSP Mind Map
 
 Books/Audiobooks:
-- https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f - CISSP Spotify Audiobook
+- (https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f) - CISSP Official Guide Spotify Audiobook
 
 Practice Exams:
-- https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview - Practise Exams
+- (https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview) - Practise Exams
 
 ## Study Plan
 
