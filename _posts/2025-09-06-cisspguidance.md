@@ -27,7 +27,7 @@ Books/Audiobooks:
 - CISSP Official Guide Spotify Audiobook - [https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f](https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f)
 
 Practice Exams:
-- Practise Exams - [https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview](https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview)
+- Practise Exams - [https://www.udemy.com/course/isc2-cissp-6-practice-exams/?couponCode=LEARNNOWPLANSGB](https://www.udemy.com/course/isc2-cissp-6-practice-exams/?couponCode=LEARNNOWPLANSGB)
 
 ## Study Plan
 
