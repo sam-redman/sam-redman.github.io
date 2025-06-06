@@ -14,26 +14,21 @@ You can take the exam without the experience, but then you will only be a CISSP 
 ## Resources
 
 Courses:
-
-- [ISC2 CISSP Full Course & Practice Exam | Udemy](https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/) (Dion Training)
-- [CISSP Certification: CISSP Domain 1 & 2 Boot Camp 2025 Exam | Udemy](https://www.udemy.com/course/cissp-domain-1-2/) (Thor Pederson)
+- [ISC2 CISSP Full Course & Practice Exam | Udemy](https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/) - Dion Training
+- [CISSP Certification: CISSP Domain 1 & 2 Boot Camp 2025 Exam | Udemy](https://www.udemy.com/course/cissp-domain-1-2/) - Thor Pederson
 
 Apps:
-
 - [Ace Your Exams with LearnZapp Mobile Learning Apps](https://www.learnzapp.com/)
 
 YouTube:
-
 - [How To Think Like A Manager for the CISSP Exam - Director's Cut](https://www.youtube.com/watch?v=dq5eodSz_0k)
 - [CISSP Exam Cram Full Course (All 8 Domains) - Good for 2024 exam!](https://www.youtube.com/watch?v=_nyZhYnCNLA)
 - [CISSP Domain 2 Review / Mind Map (1 of 2) | Asset Classification](https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1)
 
 Book/Audiobook:
-
-- https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f
+- [CISSP Study Guide Audiobook (Spotify)](https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f)
 
 Practice Exams:
-
 - [Course: ISC2 CISSP 6 Practice Exams | Udemy](https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview)
 
 ## Study Plan
