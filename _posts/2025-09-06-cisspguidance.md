@@ -5,8 +5,6 @@ categories: [study, cert]
 tags: [cissp, isc2] 
 image: https://res.cloudinary.com/djo6idowf/image/upload/v1746914619/image_mj3e4f.png
 ---
-## Who Is The CISSP For?
-
 I passed the CISSP exam 01/05/2025 after three months of daily study. The CISSP is geared towards people who have five years of cyber security experience and are looking for validation to back up their work experience. This is why I took the exam. I’ve got the experience, let’s solidify it.
 
 You can take the exam without the experience, but then you will only be a CISSP Associate, which doesn’t hold as much weight. But you can then get the full CISSP retrospectively once you have the experience. If you are one year off the five years experience, then it probably does make sense to take the exam. However, if you are going into this exam thinking that it’s going to make you into a cyber security whizz, you will be disappointed. It really is a knowledge and experience check - you’re not breaking new ground, you’re proving yourself. That’s how you should see it, and if that’s you, you should do look at sitting the exam.
