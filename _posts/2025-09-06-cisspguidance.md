@@ -14,22 +14,22 @@ You can take the exam without the experience, but then you will only be a CISSP 
 ## Resources
 
 Courses:
-- (https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/) - Dion Training
-- (https://www.udemy.com/course/cissp-domain-1-2/) - Thor Pederson
+- Dion Training - [https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/](https://www.udemy.com/course/isc2-cissp-full-course-practice-exam/)
+- Thor Pederson - [https://www.udemy.com/course/cissp-domain-1-2/](https://www.udemy.com/course/cissp-domain-1-2/)
 
 Apps:
-- (https://www.learnzapp.com/) - LearnZApp
+- LearnZApp - [https://www.learnzapp.com/](https://www.learnzapp.com/)
 
 YouTube:
-- (https://www.youtube.com/watch?v=dq5eodSz_0k) - Think Like A Manager
-- (https://www.youtube.com/watch?v=_nyZhYnCNLA) - CISSP Exam Cram
-- (https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1) - CISSP Mind Map
+- Think Like A Manager - [https://www.youtube.com/watch?v=dq5eodSz_0k](https://www.youtube.com/watch?v=dq5eodSz_0k)
+- CISSP Exam Cram - [https://www.youtube.com/watch?v=_nyZhYnCNLA](https://www.youtube.com/watch?v=_nyZhYnCNLA)
+- CISSP Mind Map - [https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1](https://www.youtube.com/watch?v=aN9zkmzYTmQ&list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW&index=1)
 
 Books/Audiobooks:
-- (https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f) - CISSP Official Guide Spotify Audiobook
+- CISSP Official Guide Spotify Audiobook - [https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f](https://open.spotify.com/show/5pWSR4J1UvVKtN6gy74le9?si=3af98de98b97483f)
 
 Practice Exams:
-- (https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview) - Practise Exams
+- Practise Exams - [https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview](https://www.udemy.com/course/isc2-cissp-6-practice-exams/learn/quiz/6640757/results?expanded=1557350267#overview)
 
 ## Study Plan
 
