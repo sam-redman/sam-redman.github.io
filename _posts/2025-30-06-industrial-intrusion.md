@@ -2636,7 +2636,7 @@ dmesg Not Found
 ?????? User proc namespace? ........... enabled         0          0 4294967295
 ?????? Vulnerable to CVE-2019-5021 .... No
                                                                                                                                                             
-????????? Breakout via mounts
+????????? breakout via mounts
 ??? https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/docker-security/docker-breakout-privilege-escalation/sensitive-mounts.html         
 ?????? /proc mounted? ................. No                                                                                                                  
 ?????? /dev mounted? .................. Yes                                                                                                                 
