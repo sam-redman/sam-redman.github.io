@@ -1,5 +1,5 @@
 ---
-title: Industrial Intrusion CTF
+title: Industrial Intrusion
 date: 2025-07-11 22:26:00 +0100
 categories: [ctf, thm]
 tags: [cryptography, networking, pwn, boot2root, reversing, web]     
