@@ -1,6 +1,6 @@
 ---
 title: Nocturnal
-date: 2025-08-28 21:46:00 +0100
+date: 2025-08-26 14:46:00 +0100
 categories: [ctf, htb]
 tags: [web, linux, lfi] 
 image: https://res.cloudinary.com/djo6idowf/image/upload/v1751662583/Nocturnal_mydxij.png
